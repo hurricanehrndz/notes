@@ -1,0 +1,2 @@
+# notes
+My daily notes.
